@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,13 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+You can download my full CV [here](/files/CV.pdf) (last updated on 4/10/2021).
+
+## Education
 ======
 * Ph.D. in Neuroscience, Padova Neuroscience Center, 2021-Present
 * M.S. in Physics of Data, University of Padova, 2018-2021
 * B.S. in Physics, University of Padova, 2015-2018
 
-Work experience
+## Work experience
 ======
 * App developer
   * A4 Smart s.r.l.s.
@@ -27,13 +29,13 @@ Work experience
   * Part time
   * Aug. 2016 - Dec. 2017
 
-Publications
+## Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Programming
+## Programming
 ======
 * Advanced:
   * Python
