@@ -11,38 +11,40 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Neuroscience, Padova Neuroscience Center, 2021-Present
+* M.S. in Physics of Data, University of Padova, 2018-2021
+* B.S. in Physics, University of Padova, 2015-2018
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* App developer
+  * A4 Smart s.r.l.s.
+  * Full time - apprenticeship
+  * Dec. 2017 - June 2018
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Software engineer intern
+  * Handing s.a.s.
+  * Part time
+  * Aug. 2016 - Dec. 2017
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Programming
+======
+* Advanced:
+  * Python
+  * Matlab
+  * Swift
+  * R
+* Base:
+  * Java
+  * C++
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -57,3 +59,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
