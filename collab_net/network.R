@@ -21,4 +21,4 @@ fn$x$nodes$hyperlink <- weblinks
 fn$x$options$clickAction = 'window.open(d.hyperlink)'
 
 fn%>%
-  saveNetwork(file = 'collab_net/network.html')
+  saveNetwork(file = 'network.html')
