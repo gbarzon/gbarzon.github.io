@@ -40,7 +40,7 @@ You can download my full CV [here](/files/CV.pdf) (last updated on 4/10/2021).
 <table>
   <tr>
     <td width="25%"><div align="right">Oct 2021 - Present day<br>
-	  <img src='/images/pnc_name.png' style="padding-top:7px;display: block;margin-right:0px;" width="180"></div>
+	  <img src='/images/pnc_name.png' style="padding-top:7px;display: block;margin-right:0px;" width="200"></div>
     </td>
     <td width="75%">Ph.D in <i>Neuroscience</i>, Padova Neuroscience Center<br>
 	     <b>Supervisor:</b> Samir Suweis<br>
@@ -50,7 +50,7 @@ You can download my full CV [here](/files/CV.pdf) (last updated on 4/10/2021).
   </tr>
   <tr>
     <td width="25%"><div align="right">Oct 2018 - April 2021<br>
-		<img src="/images/unipd.png" style="padding-top: 7px;display: block;margin-right:15px;" width="150"></div></td>
+		<img src="/images/unipd.png" style="padding-top: 7px;display: block;margin-right:10px;" width="150"></div></td>
 		<td width="75%">Master's degree in <i>Physics of Data</i>, University of Padova<br>
       <b>Thesis title:</b> <i>Structure-function relation in a stochastic whole-brain model at criticality</i><br>
 	 		<b>Advisor:</b> Samir Suweis<br>
@@ -60,14 +60,14 @@ You can download my full CV [here](/files/CV.pdf) (last updated on 4/10/2021).
   </tr>
   <tr>
     <td width="25%"><div align="right">Oct 2019 - Febr 2020<br>
-		<img src="/images/heidelberg_black.png" style="padding-top: 7px;display: block;margin-right:15px;" width="150"></div></td>
+		<img src="/images/heidelberg_black.png" style="padding-top: 7px;display: block;margin-right:10px;" width="150"></div></td>
 		<td width="75%">Erasmus semester, University of Heidelberg, Germany<br>
       <b>ECTS GPA:</b> A/A<br><br>
     </td>
   </tr>
   <tr>
     <td width="25%"><div align="right">Oct 2015 - Sept 2018<br>
-			<img src="/images/unipd.png" style="padding-top: 7px;display: block;margin-right:15px;" width="150"></div></td>
+			<img src="/images/unipd.png" style="padding-top: 7px;display: block;margin-right:10px;" width="150"></div></td>
 		<td width="75%">Bachelor's degree in <i>Physics</i>, University of Padova<br>
       <b>Thesis title:</b> <i>Advanced automatic analysis of Cloud Chamber images</i><br>
 	 		<b>Advisor:</b> Marco Zanetti<br>
