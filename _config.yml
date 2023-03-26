@@ -88,7 +88,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=1wvax2MAAAAJ&hl=en&authuser=1&oi=ao"
   email            :
-  researchgate     : "https://www.researchgate.net/profile/Giacomo-Barzon-2"
+  researchgate     : #"https://www.researchgate.net/profile/Giacomo-Barzon-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "https://twitter.com/jack_bjo"
   vine             :
   weibo            :
   xing             :
