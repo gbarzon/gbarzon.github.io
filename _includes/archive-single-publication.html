@@ -42,7 +42,7 @@
         <a href="{{ post.preprinturl }}" target="_blank">Preprint link <i class="fas fa-external-link-alt"></i></a>
       </p>
     {% endif %}
-    <p class="archive__item-excerpt" itemprop="description">  <span style="color: #9BA1A6"> <b><i>Authors</i></b>: </span>
+    <p class="archive__item-excerpt" itemprop="description">
     {% assign authors = post.authors | split: ', ' %}
     {% for author in authors %}
       {% if author contains 'Giacomo Barzon' %}

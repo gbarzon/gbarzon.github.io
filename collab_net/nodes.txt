@@ -2,10 +2,11 @@
 0	"Giacomo Barzon"	1
 1	"Karan Kabbur Hanumanthappa Manjunatha"	2
 2	"Wolfgang Rugel"	2
-3	"Enzo Orlandini and Marco Baiesi"	2
-4	"Giorgio Nicoletti"	2
-5	"Benedetta Mariani"	2
-6	"Marco Formentin"	2
-7	"Samir Suweis"	2
-9	"Modelling the deceleration of COVID-19 spreading"	4
-10	"Criticality and network structure drive emergent oscillations in a stochastic whole-brain model"	4
+3	"Enzo Orlandini"	2
+4	"Marco Baiesi"	2
+5	"Giorgio Nicoletti"	2
+6	"Benedetta Mariani"	2
+7	"Marco Formentin"	2
+8	"Samir Suweis"	2
+10	"Modelling the deceleration of COVID-19 spreading"	4
+11	"Criticality and network structure drive emergent oscillations in a stochastic whole-brain model"	4
