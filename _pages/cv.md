@@ -50,7 +50,7 @@ You can download my full CV [here](/files/CV.pdf) (last updated on 4/10/2021).
   </tr>
   <tr>
     <td width="25%"><div align="right">Oct 2018 - April 2021<br>
-		<img src="/images/unipd.png" style="padding-top: 7px;display: block;margin-right:35px;" width="150"></div></td>
+		<img src="/images/unipd.png" style="padding-top: 7px;display: block;margin-right:15px;" width="150"></div></td>
 		<td width="75%">Master's degree in <i>Physics of Data</i>, University of Padova<br>
       <b>Thesis title:</b> <i>Structure-function relation in a stochastic whole-brain model at criticality</i><br>
 	 		<b>Advisor:</b> Samir Suweis<br>
@@ -60,14 +60,14 @@ You can download my full CV [here](/files/CV.pdf) (last updated on 4/10/2021).
   </tr>
   <tr>
     <td width="25%"><div align="right">Oct 2019 - Febr 2020<br>
-		<img src="/images/heidelberg_red.png" style="padding-top: 7px;display: block;margin-right:25px;" width="150"></div></td>
+		<img src="/images/heidelberg_black.png" style="padding-top: 7px;display: block;margin-right:15px;" width="150"></div></td>
 		<td width="75%">Erasmus semester, University of Heidelberg, Germany<br>
       <b>ECTS GPA:</b> A/A<br><br>
     </td>
   </tr>
   <tr>
     <td width="25%"><div align="right">Oct 2015 - Sept 2018<br>
-			<img src="/images/unipd.png" style="padding-top: 7px;display: block;margin-right:35px;" width="150"></div></td>
+			<img src="/images/unipd.png" style="padding-top: 7px;display: block;margin-right:15px;" width="150"></div></td>
 		<td width="75%">Bachelor's degree in <i>Physics</i>, University of Padova<br>
       <b>Thesis title:</b> <i>Advanced automatic analysis of Cloud Chamber images</i><br>
 	 		<b>Advisor:</b> Marco Zanetti<br>
@@ -78,7 +78,7 @@ You can download my full CV [here](/files/CV.pdf) (last updated on 4/10/2021).
 </table>
 </font>
 
-## Publications & preprints
+## Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv-pub.html %}
   {% endfor %}</ul>
@@ -116,7 +116,9 @@ Phenomena in Biology”](https://www.ipht.fr/Meetings/BegRohu2021/index.html){:t
 
 
 ## Teaching
-* [Programming in Python for mathematicians]
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
 <!-- Talks
 ======
