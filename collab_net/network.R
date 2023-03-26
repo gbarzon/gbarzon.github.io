@@ -4,8 +4,6 @@ library(networkD3)
 
 
 # Plot
-
-
 links = read.table("links.txt")
 nodes = read.table("nodes.txt")
 weblinks <- c(read.table("hyperlinks.txt"))
@@ -23,4 +21,4 @@ fn$x$nodes$hyperlink <- weblinks
 fn$x$options$clickAction = 'window.open(d.hyperlink)'
 
 fn%>%
-  saveNetwork(file = 'network.html')
+  saveNetwork(file = 'collab_net/network.html')

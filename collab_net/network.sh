@@ -64,7 +64,7 @@ echo "	source	target	value" > $LINKS	#creates file with link data
 
 for i in $(seq 1 $authN)	#loops over all authors and add the relative line in $NODES and $URL
 do
-	if [[ "$(sed "${i}q;d" $OUTPUT_AUTH)" == $"Giorgio Nicoletti" ]]; then
+	if [[ "$(sed "${i}q;d" $OUTPUT_AUTH)" == $"Giacomo Barzon" ]]; then
 	echo -e "$((i-1))\t\""$(sed "${i}q;d" $OUTPUT_AUTH)"\"\t1" >> $NODES
 	else echo -e "$((i-1))\t\""$(sed "${i}q;d" $OUTPUT_AUTH)"\"\t2" >> $NODES
 	fi						#adds to $NODES the line relative to each author
@@ -117,13 +117,8 @@ done
 	
 	done
 
-
-
-
 cat $LINKS | sed "s/,\ /\n/g" | perl -ne 'print unless $seen{$_}++' > $TEMP_MISC	#deletes duplicate lines
 cat $TEMP_MISC > $LINKS
-
-
 
 echo "" > $TEMP_MISC
 length=$(cat $LINKS | wc -l)
@@ -134,9 +129,6 @@ old_cut=$(cut -f 2-4 <<< $oldline)
 newline=$(echo $((k-2))"\t"$old_cut)
 sed -i "s/${oldline}/${newline}/" $LINKS
 done
-
-
-
 
 rm $TEMP_AUTH	#deletes auxiliary files
 rm $OUTPUT_AUTH
