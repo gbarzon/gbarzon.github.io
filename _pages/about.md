@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Giacomo Barzon, I'm currently pursuing my PhD in Neuroscience at the University of Padova, Italy, hosted by the [Padova Neuroscience Center](https://pnc.unipd.it).
+My name is Giacomo Barzon, I am currently a Ph.D. student in Neuroscience at the University of Padova, Italy, hosted by the [Padova Neuroscience Center](https://pnc.unipd.it).
 
 I obtained both my BSc in Physics and my MSc in Physics of Data at the University of Padova, and I spent a semester as an Erasmus student at the University of Heidelberg, Germany.
 
