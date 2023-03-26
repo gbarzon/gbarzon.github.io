@@ -40,7 +40,7 @@ You can download my full CV [here](/files/CV.pdf) (last updated on 4/10/2021).
 <table>
   <tr>
     <td width="25%"><div align="right">Oct 2021 - Present day<br>
-	  <img src='/images/PNC.png' style="padding-top:7px;display: block;margin-right:15px;" width="150"></div>
+	  <img src='/images/pnc_name.png' style="padding-top:7px;display: block;margin-right:15px;" width="150"></div>
     </td>
     <td width="75%">Ph.D in <i>Neuroscience</i>, Padova Neuroscience Center<br>
 	     <b>Supervisor:</b> Samir Suweis<br>
