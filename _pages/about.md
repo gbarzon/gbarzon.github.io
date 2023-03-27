@@ -10,9 +10,9 @@ redirect_from:
 
 My name is Giacomo Barzon, I am currently a Ph.D. student in Neuroscience at the University of Padova, Italy, hosted by the [Padova Neuroscience Center](https://pnc.unipd.it). I am working under the supervision of Samir Suweis from the [Laboratory of Interdisciplinary Physics](https://liphlab.com/) and Manlio De Domenico from the [CoMuNe Lab](https://manliodedomenico.com).
 
-I obtained a Master's degree in Physics of Data at the University of Padova, which combines a solid background in Physics with a strong focus on Data Science. Indeed, I like to combine analytical and computational approaches to tackle research problems.
+I obtained a Master's degree in Physics of Data at the University of Padova. This program provided me with a comprehensive understanding of both Physics and Data Science, and I find it fulfilling to merge analytical and computational methods to tackle research challenges.
 
-My main interests are complex systems and network theory, with a focus on the brain. My passion for neuroscience can be summarized in the following picture:
+My main interests are complex systems and network theory, with a focus on the brain. My passion for neuroscience can be summarized in this picture:
 
 <image src="/images/brain_lick.jpg" width="40%" style="display:block;margin-left:auto;margin-right:auto;padding-bottom:15px;"></image>
 
