@@ -50,7 +50,7 @@ You can download my full CV [here](/files/CV.pdf).
   </tr>
   <tr>
     <td width="25%"><div align="right">Oct 2018 - April 2021<br>
-		<img src="/images/unipd.png" style="padding-top: 7px;display: block;margin-right:15px;" width="140"></div></td>
+		<img src="/images/unipd.png" style="padding-top: 7px;display: block;margin-right:25px;" width="130"></div></td>
 		<td width="75%">Master's degree in <i>Physics of Data</i>, University of Padova<br>
       <b>Thesis title:</b> <i>Structure-function relation in a stochastic whole-brain model at criticality</i><br>
 	 		<b>Advisor:</b> Samir Suweis<br>
@@ -60,14 +60,14 @@ You can download my full CV [here](/files/CV.pdf).
   </tr>
   <tr>
     <td width="25%"><div align="right">Oct 2019 - Febr 2020<br>
-		<img src="/images/heidelberg_black.png" style="padding-top: 7px;display: block;margin-right:15px;" width="140"></div></td>
+		<img src="/images/heidelberg_black.png" style="padding-top: 7px;display: block;margin-right:25px;" width="130"></div></td>
 		<td width="75%">Erasmus semester, University of Heidelberg, Germany<br>
       <b>ECTS GPA:</b> A/A<br><br>
     </td>
   </tr>
   <tr>
     <td width="25%"><div align="right">Oct 2015 - Sept 2018<br>
-			<img src="/images/unipd.png" style="padding-top: 7px;display: block;margin-right:15px;" width="140"></div></td>
+			<img src="/images/unipd.png" style="padding-top: 7px;display: block;margin-right:25px;" width="130"></div></td>
 		<td width="75%">Bachelor's degree in <i>Physics</i>, University of Padova<br>
       <b>Thesis title:</b> <i>Advanced automatic analysis of Cloud Chamber images</i><br>
 	 		<b>Advisor:</b> Marco Zanetti<br>
@@ -94,13 +94,11 @@ You can download my full CV [here](/files/CV.pdf).
   {% endfor %}</ul>
 
 ## Attended schools and workshops
-* [Winter Workshop on Complex Systems 2022](https://wwcs2022.github.io/){:target="_blank"}<!--_-->, *Arc-et-Senans, France*, 24th - 28th January 2022
-* [The Beg Rohu Summer School “Statistical Mechanics and Emergent
-Phenomena in Biology”](https://www.ipht.fr/Meetings/BegRohu2021/index.html){:target="_blank"}<!--_-->, *Beg Rohu, France*, 30th May - 12th June 2021
-* [Brain Connectivity Workshop](https://www.physicsoflife.org.uk/physics-of-brains.html){:target="_blank"}<!--_-->, *online*, 25th - 28th May 2021
-* [Winter School on Quantitative Systems Biology: Quantitative Approaches in Ecosystem Ecology](http://indico.ictp.it/event/9131/){:target="_blank"}<!--_-->, *online*, 30th November - 18th December 2020
-* [Youth in High-dimensions: Machine Learning, High-dimensional Statistics and Inference for the New Generation](http://indico.ictp.it/event/9409/){:target="_blank"}<!--_-->, *online*, 29th June - 3rd July 2020
-* [Computational and Theoretical Models in Neuroscience Summer School](https://liphlab.github.io/ContamiNeuro/){:target="_blank"}<!--_-->, *Venice, Italy*, 9th - 16th September 2019
+* [EITN Fall School in Computational Neuroscience 2022](https://eitnschool2022.sciencesconf.org/){:target="_blank"}<!--_-->, *Paris, France*, 21st - 30th September 2022
+* [Cosyne Conference 2022](https://www.cosyne.org/){:target="_blank"}<!--_-->, *Lisbon, Portugal*, , 25th - 28th March 2022
+* [Workshop: Spatial Brain Dynamics](https://www.physicsoflife.org.uk/physics-of-brains.html){:target="_blank"}<!--_-->, *online*, 11th - 13th May 2022
+* [Spring College on the Physics of Complex Systems](http://indico.ictp.it/event/9131/){:target="_blank"}<!--_-->, *online*, 22nd Fenruary - 21st March 2021
+* [International Winter School - “MRInference: from data to knowledge”](https://dpss.unipd.it/winter-school-2021/home){:target="_blank"}<!--_-->, *online*, 15th June - 19th February 2020
 
 <!-- 
 ## Honors and awards
@@ -111,11 +109,11 @@ Phenomena in Biology”](https://www.ipht.fr/Meetings/BegRohu2021/index.html){:t
 -->
 
 ## Supervision
-* Tommaso Bertola, [Modellizzazione dell'attività neurale nella corteccia cerebrale](https://thesis.unipd.it/handle/20.500.12608/35057?mode=simple){:target="_blank"} (2022), Bachelor thesis in Physics, University of Padova, Italy
-* Veronica Bedin, [Hidden Markov Models for dimensionality reduction of neural activity](https://thesis.unipd.it/handle/20.500.12608/41577){:target="_blank"} (2022), Bachelor thesis in Physics, University of Padova, Italy
+* Tommaso Bertola, [Modellizzazione dell'attività neurale nella corteccia cerebrale](https://thesis.unipd.it/handle/20.500.12608/35057?mode=simple){:target="_blank"}, Bachelor thesis in Physics, University of Padova, Italy, 2021/2022
+* Veronica Bedin, [Hidden Markov Models for dimensionality reduction of neural activity](https://thesis.unipd.it/handle/20.500.12608/41577){:target="_blank"}, Bachelor thesis in Physics, University of Padova, Italy, 2021/2022
 
 ## Teaching
-* [Programmazione](https://www.didattica.unipd.it/off/2022/LT/SC/SC1159/000ZZ/SCM0014406/A1302){:target="_blank"}, Bachelor Degree in Mathematics, University of Padova, Italy, 2021/2022
+* [Programmazione](https://www.didattica.unipd.it/off/2022/LT/SC/SC1159/000ZZ/SCM0014406/A1302){:target="_blank"}, Teaching Assistant, Bachelor Degree in Mathematics, University of Padova, Italy, 2021/2022
   
 <!-- Talks
 ======
