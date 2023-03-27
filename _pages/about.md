@@ -16,9 +16,5 @@ My main interests are complex systems and network theory, with a focus on the br
 
 <image src="/images/brain_lick.jpg" width="50%" style="display:block;margin-left:auto;margin-right:auto;padding-bottom:10px;"></image>
 
-display: block;
-  margin-left: auto;
-  margin-right: auto;
-
 Here you can find a network representing my works and collaborators:
 <iframe src="/collab_net/network.html" height="300" width="100%" style="border: none"></iframe>
