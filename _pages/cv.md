@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my full CV [here](/files/CV.pdf) (last updated on 4/10/2021).
+You can download my full CV [here](/files/CV.pdf).
 
 <!-- ## Research experience
 <font size="5">
