@@ -14,7 +14,7 @@ I obtained a Master's degree in Physics of Data at the University of Padova, whi
 
 My main interests are complex systems and network theory, with a focus on the brain. My passion for neuroscience can be summarized in the following picture:
 
-<image src="/images/brain_lick.jpg" height="100" width="100%"></image>
+<image src="/images/brain_lick.jpg" height="100"></image>
 
 Here you can find a network representing my works and collaborators:
 <iframe src="/collab_net/network.html" height="300" width="100%" style="border: none"></iframe>
