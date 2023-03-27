@@ -34,7 +34,6 @@ You can download my full CV [here](/files/CV.pdf).
 </table>
 </font> -->
 
-
 ## Education
 <font size="5">
 <table>
