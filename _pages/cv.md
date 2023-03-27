@@ -50,7 +50,7 @@ You can download my full CV [here](/files/CV.pdf) (last updated on 4/10/2021).
   </tr>
   <tr>
     <td width="25%"><div align="right">Oct 2018 - April 2021<br>
-		<img src="/images/unipd.png" style="padding-top: 7px;display: block;margin-right:10px;" width="140"></div></td>
+		<img src="/images/unipd.png" style="padding-top: 7px;display: block;margin-right:15px;" width="140"></div></td>
 		<td width="75%">Master's degree in <i>Physics of Data</i>, University of Padova<br>
       <b>Thesis title:</b> <i>Structure-function relation in a stochastic whole-brain model at criticality</i><br>
 	 		<b>Advisor:</b> Samir Suweis<br>
@@ -60,14 +60,14 @@ You can download my full CV [here](/files/CV.pdf) (last updated on 4/10/2021).
   </tr>
   <tr>
     <td width="25%"><div align="right">Oct 2019 - Febr 2020<br>
-		<img src="/images/heidelberg_black.png" style="padding-top: 7px;display: block;margin-right:10px;" width="140"></div></td>
+		<img src="/images/heidelberg_black.png" style="padding-top: 7px;display: block;margin-right:15px;" width="140"></div></td>
 		<td width="75%">Erasmus semester, University of Heidelberg, Germany<br>
       <b>ECTS GPA:</b> A/A<br><br>
     </td>
   </tr>
   <tr>
     <td width="25%"><div align="right">Oct 2015 - Sept 2018<br>
-			<img src="/images/unipd.png" style="padding-top: 7px;display: block;margin-right:10px;" width="140"></div></td>
+			<img src="/images/unipd.png" style="padding-top: 7px;display: block;margin-right:15px;" width="140"></div></td>
 		<td width="75%">Bachelor's degree in <i>Physics</i>, University of Padova<br>
       <b>Thesis title:</b> <i>Advanced automatic analysis of Cloud Chamber images</i><br>
 	 		<b>Advisor:</b> Marco Zanetti<br>
@@ -111,14 +111,11 @@ Phenomena in Biology”](https://www.ipht.fr/Meetings/BegRohu2021/index.html){:t
 -->
 
 ## Supervision
-<!-- * Supervision of one student's thesis for the Master Degree in Physics of Data, University of Padova, Italy. -->
-* Supervision of two students' projects for the Master Degree in Physics of Data, University of Padova, Italy.
-
+* Tommaso Bertola, [Modellizzazione dell'attività neurale nella corteccia cerebrale](https://thesis.unipd.it/handle/20.500.12608/35057?mode=simple){:target="_blank"} (2022), Bachelor thesis in Physics, University of Padova, Italy
+* Veronica Bedin, [Hidden Markov Models for dimensionality reduction of neural activity](https://thesis.unipd.it/handle/20.500.12608/41577){:target="_blank"} (2022), Bachelor thesis in Physics, University of Padova, Italy
 
 ## Teaching
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* [Programmazione](https://www.didattica.unipd.it/off/2022/LT/SC/SC1159/000ZZ/SCM0014406/A1302){:target="_blank"}, Bachelor Degree in Mathematics, University of Padova, Italy, 2021/2022
   
 <!-- Talks
 ======
