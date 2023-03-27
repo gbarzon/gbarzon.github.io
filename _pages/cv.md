@@ -96,7 +96,7 @@ You can download my full CV [here](/files/CV.pdf).
 * [EITN Fall School in Computational Neuroscience 2022](https://eitnschool2022.sciencesconf.org/){:target="_blank"}<!--_-->, *Paris, France*, 21st - 30th September 2022
 * [Cosyne Conference 2022](https://www.cosyne.org/){:target="_blank"}<!--_-->, *Lisbon, Portugal*, , 25th - 28th March 2022
 * [Workshop: Spatial Brain Dynamics](https://www.physicsoflife.org.uk/physics-of-brains.html){:target="_blank"}<!--_-->, *online*, 11th - 13th May 2022
-* [Spring College on the Physics of Complex Systems](http://indico.ictp.it/event/9131/){:target="_blank"}<!--_-->, *online*, 22nd Fenruary - 21st March 2021
+* [Spring College on the Physics of Complex Systems](http://indico.ictp.it/event/9131/){:target="_blank"}<!--_-->, *online*, 22nd February - 21st March 2021
 * [International Winter School - “MRInference: from data to knowledge”](https://dpss.unipd.it/winter-school-2021/home){:target="_blank"}<!--_-->, *online*, 15th June - 19th February 2020
 
 <!-- 
