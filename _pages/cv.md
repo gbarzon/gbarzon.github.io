@@ -108,11 +108,14 @@ You can download my full CV [here](/files/CV.pdf).
 -->
 
 ## Supervision
-* Tommaso Bertola, [Modellizzazione dell'attività neurale nella corteccia cerebrale](https://thesis.unipd.it/handle/20.500.12608/35057?mode=simple){:target="_blank"}, Bachelor thesis in Physics, University of Padova, Italy, 2021/2022
-* Veronica Bedin, [Hidden Markov Models for dimensionality reduction of neural activity](https://thesis.unipd.it/handle/20.500.12608/41577){:target="_blank"}, Bachelor thesis in Physics, University of Padova, Italy, 2021/2022
+* Tommaso Bertola, [Modellizzazione dell'attività neurale nella corteccia cerebrale](https://thesis.unipd.it/handle/20.500.12608/35057?mode=simple){:target="_blank"}<br>
+Bachelor thesis in Physics, University of Padova, Italy, 2021/2022
+* Veronica Bedin, [Hidden Markov Models for dimensionality reduction of neural activity](https://thesis.unipd.it/handle/20.500.12608/41577){:target="_blank"}<br>
+Bachelor thesis in Physics, University of Padova, Italy, 2021/2022
 
 ## Teaching
-* [Programmazione](https://www.didattica.unipd.it/off/2022/LT/SC/SC1159/000ZZ/SCM0014406/A1302){:target="_blank"}, Teaching Assistant, Bachelor Degree in Mathematics, University of Padova, Italy, 2021/2022
+* [Programmazione](https://www.didattica.unipd.it/off/2022/LT/SC/SC1159/000ZZ/SCM0014406/A1302){:target="_blank"}, Teaching Assistant<br>
+Bachelor Degree in Mathematics, University of Padova, Italy, 2021/2022
   
 <!-- Talks
 ======
