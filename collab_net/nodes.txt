@@ -8,5 +8,10 @@
 6	"Benedetta Mariani"	2
 7	"Marco Formentin"	2
 8	"Samir Suweis"	2
-10	"Modelling the deceleration of COVID-19 spreading"	4
-11	"Criticality and network structure drive emergent oscillations in a stochastic whole-brain model"	4
+9	"María Clemencia Ortíz Barajas"	2
+10	"Mohinish Shukla"	2
+11	"Ramón Guevara"	2
+12	"Judit Gervain"	2
+14	"Modelling the deceleration of COVID-19 spreading"	4
+15	"Criticality and network structure drive emergent oscillations in a stochastic whole-brain model"	4
+16	"Prenatal experience with language shapes the brain"	3
