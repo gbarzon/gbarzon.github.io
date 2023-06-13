@@ -1,10 +1,10 @@
 ---
-title: " Controllability of brain networks"
+title: "Controllability of brain networks"
 collection: talks
 type: "Invited talk"
 permalink:
 venue: "LIPh Spring Workshop 2022"
-date: 2022-07-05
+date: 2022-03-30
 location: "Asiago, Italy"
 ---
 
