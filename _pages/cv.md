@@ -109,6 +109,8 @@ You can download my full CV [here](/files/CV.pdf).
 -->
 
 ## Supervision
+* Manjodh Singh, [Bistabilità e bacini di attrazione nella dinamica neurale](https://thesis.unipd.it/handle/20.500.12608/53401){:target="_blank"}<br>
+Bachelor thesis in Physics, University of Padova, Italy, 2022/2023
 * Tommaso Bertola, [Modellizzazione dell'attività neurale nella corteccia cerebrale](https://thesis.unipd.it/handle/20.500.12608/35057?mode=simple){:target="_blank"}<br>
 Bachelor thesis in Physics, University of Padova, Italy, 2021/2022
 * Veronica Bedin, [Hidden Markov Models for dimensionality reduction of neural activity](https://thesis.unipd.it/handle/20.500.12608/41577){:target="_blank"}<br>

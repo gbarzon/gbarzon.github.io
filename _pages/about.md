@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Giacomo Barzon, I am currently a Ph.D. student in Neuroscience at the University of Padova, Italy, hosted by the [Padova Neuroscience Center](https://pnc.unipd.it). I am working under the supervision of Samir Suweis from the [Laboratory of Interdisciplinary Physics](https://liphlab.com/) and Manlio De Domenico from the [CoMuNe Lab](https://manliodedomenico.com).
+My name is Giacomo Barzon, I am currently a Ph.D. student at the [Padova Neuroscience Center](https://pnc.unipd.it), University of Padova, Italy. I am working under the supervision of Samir Suweis from the [Laboratory of Interdisciplinary Physics](https://liphlab.com/) and Manlio De Domenico from the [CoMuNe Lab](https://manliodedomenico.com).
 
 I obtained a Master's degree in Physics of Data at the University of Padova. This program provided me with a comprehensive understanding of both Physics and Data Science, and I find it fulfilling to merge analytical and computational methods to tackle research challenges.
 
