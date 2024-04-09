@@ -44,7 +44,7 @@ You can download my full CV [here](/files/CV.pdf).
     <td width="75%">Ph.D in <i>Neuroscience</i>, Padova Neuroscience Center<br>
 	     <b>Supervisor:</b> Samir Suweis<br>
 		   <b>Co-supervisor:</b> Manlio De Domenico<br>
-       <b>Main research interests:</b> complex systems and the Physics of phase transitions.<br><br>
+       <b>Main research interests:</b> Controllability of brain networks.<br><br>
    </td>
   </tr>
   <tr>
