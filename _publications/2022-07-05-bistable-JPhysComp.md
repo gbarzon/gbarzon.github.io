@@ -6,7 +6,7 @@ excerpt: 'Journal article'
 date: 2022-07-05
 year: '2022'
 authors: 'Giacomo Barzon, Giorgio Nicoletti, Benedetta Mariani, Marco Formentin, Samir Suweis'
-venue: ' Journal of Physics: Complexity, Volume 3, Number 2 '
+venue: 'J. Phys. Complex. 3 025010 (2022)'
 preprinturl: #'https://doi.org/10.1101/2022.01.17.476567'
 paperurl: 'https://iopscience.iop.org/article/10.1088/2632-072X/ac7a83'
 citation: 'Giacomo Barzon et al 2022 J. Phys. Complex. 3 025010'
