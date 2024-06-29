@@ -39,7 +39,7 @@ You can download my full CV [here](/files/CV.pdf).
    </td>
   </tr>
   <tr>
-    <td width="25%"><div align="right">Oct 2018 - April 2021<br>
+    <td width="25%"><div align="right">Oct 2018 - Apr 2021<br>
 		<img src="/images/unipd.png" style="padding-top: 7px;display: block;margin-right:25px;" width="130"></div></td>
 		<td width="75%">Master's degree in <i>Physics of Data</i>, University of Padova<br>
       <b>Thesis:</b> <i>Structure-function relation in a stochastic whole-brain model at criticality</i><br>
@@ -49,14 +49,14 @@ You can download my full CV [here](/files/CV.pdf).
     </td>
   </tr>
   <tr>
-    <td width="25%"><div align="right">Oct 2019 - Febr 2020<br>
+    <td width="25%"><div align="right">Oct 2019 - Feb 2020<br>
 		<img src="/images/heidelberg_black.png" style="padding-top: 7px;display: block;margin-right:25px;" width="130"></div></td>
 		<td width="75%">Erasmus semester, University of Heidelberg, Germany<br>
       <b>ECTS GPA:</b> A/A<br><br>
     </td>
   </tr>
   <tr>
-    <td width="25%"><div align="right">Oct 2015 - Sept 2018<br>
+    <td width="25%"><div align="right">Oct 2015 - Sep 2018<br>
 			<img src="/images/unipd.png" style="padding-top: 7px;display: block;margin-right:25px;" width="130"></div></td>
 		<td width="75%">Bachelor's degree in <i>Physics</i>, University of Padova<br>
       <b>Thesis:</b> <i>Advanced automatic analysis of Cloud Chamber images</i><br>
