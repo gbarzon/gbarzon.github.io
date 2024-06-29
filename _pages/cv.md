@@ -109,6 +109,8 @@ You can download my full CV [here](/files/CV.pdf).
 -->
 
 ## Supervision
+* Miriam Zara, [Un approccio al trasporto ottimale basato sulla meccanica statistica](https://thesis.unipd.it/handle/20.500.12608/64696){:target="_blank"}<br>
+Bachelor thesis in Physics, University of Padova, Italy, 2023/2024
 * Manjodh Singh, [Bistabilità e bacini di attrazione nella dinamica neurale](https://thesis.unipd.it/handle/20.500.12608/53401){:target="_blank"}<br>
 Bachelor thesis in Physics, University of Padova, Italy, 2022/2023
 * Tommaso Bertola, [Modellizzazione dell'attività neurale nella corteccia cerebrale](https://thesis.unipd.it/handle/20.500.12608/35057?mode=simple){:target="_blank"}<br>
