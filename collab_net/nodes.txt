@@ -14,7 +14,9 @@
 12	"Mohinish Shukla"	2
 13	"Ramón Guevara"	2
 14	"Judit Gervain"	2
-16	"Modelling the deceleration of COVID-19 spreading"	4
-17	"Criticality and network structure drive emergent oscillations in a stochastic whole-brain model"	4
-18	"EEG microstate transition cost correlates with task demands"	3
-19	"Prenatal experience with language shapes the brain"	4
+15	"Daniel M. Busiello"	2
+17	"Modelling the deceleration of COVID-19 spreading"	4
+18	"Criticality and network structure drive emergent oscillations in a stochastic whole-brain model"	4
+19	"EEG microstate transition cost correlates with task demands"	3
+20	"Prenatal experience with language shapes the brain"	4
+21	"Maximal information at the edge of stability in excitatory-inhibitory neural populations"	3
