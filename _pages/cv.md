@@ -11,28 +11,19 @@ redirect_from:
 
 You can download my full CV [here](/files/CV.pdf).
 
-<!-- ## Research experience
+## Research experience
 <font size="5">
 <table>
   <tr>
-    <td width="25%"><div align="right">Sept - Dec 2022<br>
-    <img src='/images/tubingen.png' style="padding-top:7px; display: block; margin-right:20px;" width="150"></div>
+    <td width="25%"><div align="right">Apr 2024 - Present day<br>
+    <img src='/images/university-of-Oregon-logo.png' style="padding-top:7px; display: block; margin-right:20px;" width="200"></div>
     </td>
-    <td width="75%">Visiting Ph.D. student, Self-organization and optimality in neuronal networks group, University of Tübingen, Tübingen, Germany<br>
-       <b>Supervisor:</b> Anna Levina<br>
-   </td>
-  </tr>
-
-  <tr>
-    <td width="25%"><div align="right">June - July 2022<br>
-	  <img src='/images/mpipks.png' style="padding-top:7px; display: block; margin-right:15px;" width="150"></div>
-    </td>
-    <td width="75%">Visiting Ph.D. student, Max Planck Institute for the Physics of Complex Systems, Dresden, Germany<br>
-	     <b>Supervisor:</b> Daniel M. Busiello<br>
+    <td width="75%">Visiting Ph.D. student, Institute of Neuroscience, University of Oregon, Eugene, United States<br>
+       <b>Supervisor:</b> Luca Mazzucato<br>
    </td>
   </tr>
 </table>
-</font> -->
+</font>
 
 ## Education
 <font size="5">
@@ -51,9 +42,9 @@ You can download my full CV [here](/files/CV.pdf).
     <td width="25%"><div align="right">Oct 2018 - April 2021<br>
 		<img src="/images/unipd.png" style="padding-top: 7px;display: block;margin-right:25px;" width="130"></div></td>
 		<td width="75%">Master's degree in <i>Physics of Data</i>, University of Padova<br>
-      <b>Thesis title:</b> <i>Structure-function relation in a stochastic whole-brain model at criticality</i><br>
+      <b>Thesis:</b> <i>Structure-function relation in a stochastic whole-brain model at criticality</i><br>
 	 		<b>Advisor:</b> Samir Suweis<br>
-      <b>Final grade:</b> 110/110 cum laude<br>
+      <b>Final grade:</b> 110/110 cum laude &nbsp; &nbsp; &nbsp;
       <b>GPA:</b> 30/30<br><br>
     </td>
   </tr>
@@ -68,9 +59,9 @@ You can download my full CV [here](/files/CV.pdf).
     <td width="25%"><div align="right">Oct 2015 - Sept 2018<br>
 			<img src="/images/unipd.png" style="padding-top: 7px;display: block;margin-right:25px;" width="130"></div></td>
 		<td width="75%">Bachelor's degree in <i>Physics</i>, University of Padova<br>
-      <b>Thesis title:</b> <i>Advanced automatic analysis of Cloud Chamber images</i><br>
+      <b>Thesis:</b> <i>Advanced automatic analysis of Cloud Chamber images</i><br>
 	 		<b>Advisor:</b> Marco Zanetti<br>
-      <b>Final grade:</b> 108/110<br>
+      <b>Final grade:</b> 108/110 &nbsp; &nbsp; &nbsp;
       <b>GPA:</b> 28.2/30<br><br>
     </td>
   </tr>
