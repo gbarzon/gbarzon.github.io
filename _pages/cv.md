@@ -18,8 +18,9 @@ You can download my full CV [here](/files/CV.pdf).
     <td width="25%"><div align="right">Apr 2024 - Present day<br>
     <img src='/images/university-of-Oregon-logo.png' style="padding-top:7px; display: block; margin-right:20px;" width="200"></div>
     </td>
-    <td width="75%">Visiting Ph.D. student, Institute of Neuroscience, University of Oregon, Eugene, United States<br>
-       <b>Supervisor:</b> Luca Mazzucato<br>
+    <td width="75%">Visiting Ph.D. student<br>
+       Institute of Neuroscience, University of Oregon, Eugene, United States<br>
+       @ Computational Neuroscience Lab<br>
    </td>
   </tr>
 </table>
@@ -40,7 +41,7 @@ You can download my full CV [here](/files/CV.pdf).
   </tr>
   <tr>
     <td width="25%"><div align="right">Oct 2018 - Apr 2021<br>
-		<img src="/images/unipd.png" style="padding-top: 7px;display: block;margin-right:25px;" width="130"></div></td>
+		<img src="/images/unipd-universita-di-padova.png" style="padding-top: 7px;display: block;margin-right:25px;" width="200"></div></td>
 		<td width="75%">Master's degree in <i>Physics of Data</i>, University of Padova<br>
       <b>Thesis:</b> <i>Structure-function relation in a stochastic whole-brain model at criticality</i><br>
 	 		<b>Advisor:</b> Samir Suweis<br>
@@ -50,14 +51,14 @@ You can download my full CV [here](/files/CV.pdf).
   </tr>
   <tr>
     <td width="25%"><div align="right">Oct 2019 - Feb 2020<br>
-		<img src="/images/heidelberg_black.png" style="padding-top: 7px;display: block;margin-right:25px;" width="130"></div></td>
+		<img src="/images/heidelberg_long.png" style="padding-top: 7px;display: block;margin-right:25px;" width="200"></div></td>
 		<td width="75%">Erasmus semester, University of Heidelberg, Germany<br>
       <b>ECTS GPA:</b> A/A<br><br>
     </td>
   </tr>
   <tr>
     <td width="25%"><div align="right">Oct 2015 - Sep 2018<br>
-			<img src="/images/unipd.png" style="padding-top: 7px;display: block;margin-right:25px;" width="130"></div></td>
+			<img src="/images/unipd-universita-di-padova.png" style="padding-top: 7px;display: block;margin-right:25px;" width="200"></div></td>
 		<td width="75%">Bachelor's degree in <i>Physics</i>, University of Padova<br>
       <b>Thesis:</b> <i>Advanced automatic analysis of Cloud Chamber images</i><br>
 	 		<b>Advisor:</b> Marco Zanetti<br>
@@ -112,7 +113,7 @@ Bachelor thesis in Physics, University of Padova, Italy, 2021/2022
 ## Teaching
 * [Programmazione](https://www.didattica.unipd.it/off/2022/LT/SC/SC1159/000ZZ/SCM0014406/A1302){:target="_blank"}, Teaching Assistant<br>
 Bachelor Degree in Mathematics, University of Padova, Italy, 2022/2023
-  
+
 <!-- Talks
 ======
   <ul>{% for post in site.talks %}

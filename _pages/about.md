@@ -12,7 +12,9 @@ My name is Giacomo Barzon, I am currently a Ph.D. student at the [Padova Neurosc
 
 I obtained a Master's degree in Physics of Data at the University of Padova. This program provided me with a comprehensive understanding of both Physics and Data Science, and I find it fulfilling to merge analytical and computational methods to tackle research challenges.
 
-I am intrigued by how the complex structure of the brain, both at the meso and macro scales, drives the emergence of complex dynamical and behavioral patterns, how these patterns are altered during diseases, and how we can design interventions to restore normal functionality. My passion for neuroscience can be summarized in this picture:
+I am intrigued by how the complex structure of the brain, both at the meso and macro scales, drives the emergence of complex dynamical and behavioral patterns, how these patterns are altered during diseases, and how we can design interventions to restore normal functionality.
+
+My passion for neuroscience can be summarized in this picture:
 
 <image src="/images/brain_lick.jpg" width="40%" style="display:block;margin-left:auto;margin-right:auto;padding-bottom:15px;"></image>
 
