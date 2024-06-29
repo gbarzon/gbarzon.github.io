@@ -23,6 +23,9 @@ You can download my full CV [here](/files/CV.pdf).
        @ Computational Neuroscience Lab<br>
    </td>
   </tr>
+
+   <td></td>
+
 </table>
 </font>
 
@@ -39,6 +42,9 @@ You can download my full CV [here](/files/CV.pdf).
        <b>Main research interests:</b> Controllability of brain networks.<br><br>
    </td>
   </tr>
+
+ <td></td>
+
   <tr>
     <td width="25%"><div align="right">Oct 2018 - Apr 2021<br>
 		<img src="/images/unipd-universita-di-padova.png" style="padding-top: 7px;display: block;margin-right:0px;" width="200"></div></td>
@@ -49,6 +55,9 @@ You can download my full CV [here](/files/CV.pdf).
       <b>GPA:</b> 30/30<br><br>
     </td>
   </tr>
+
+ <td></td>
+
   <tr>
     <td width="25%"><div align="right">Oct 2019 - Feb 2020<br>
 		<img src="/images/heidelberg_long.png" style="padding-top: 7px;display: block;margin-right:0px;" width="180"></div></td>
@@ -57,6 +66,9 @@ You can download my full CV [here](/files/CV.pdf).
       <b>ECTS GPA:</b> A/A<br><br>
     </td>
   </tr>
+
+ <td></td>
+
   <tr>
     <td width="25%"><div align="right">Oct 2015 - Sep 2018<br>
 			<img src="/images/unipd-universita-di-padova.png" style="padding-top: 7px;display: block;margin-right:0px;" width="200"></div></td>
