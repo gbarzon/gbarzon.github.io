@@ -33,7 +33,7 @@ You can download my full CV [here](/files/CV.pdf).
     <td width="25%"><div align="right">Oct 2021 - Present day<br>
 	  <img src='/images/pnc_name.png' style="padding-top:7px;display: block;margin-right:0px;" width="200"></div>
     </td>
-    <td width="75%">Ph.D in <i>Neuroscience</i>, Padova Neuroscience Center<br>
+    <td width="75%">Ph.D in Neuroscience, Padova Neuroscience Center<br>
 	     <b>Supervisor:</b> Samir Suweis<br>
 		   <b>Co-supervisor:</b> Manlio De Domenico<br>
        <b>Main research interests:</b> Controllability of brain networks.<br><br>
@@ -41,8 +41,8 @@ You can download my full CV [here](/files/CV.pdf).
   </tr>
   <tr>
     <td width="25%"><div align="right">Oct 2018 - Apr 2021<br>
-		<img src="/images/unipd-universita-di-padova.png" style="padding-top: 7px;display: block;margin-right:25px;" width="200"></div></td>
-		<td width="75%">Master's degree in <i>Physics of Data</i>, University of Padova<br>
+		<img src="/images/unipd-universita-di-padova.png" style="padding-top: 7px;display: block;margin-right:0px;" width="200"></div></td>
+		<td width="75%">Master's degree in Physics of Data, University of Padova<br>
       <b>Thesis:</b> <i>Structure-function relation in a stochastic whole-brain model at criticality</i><br>
 	 		<b>Advisor:</b> Samir Suweis<br>
       <b>Final grade:</b> 110/110 cum laude &nbsp; &nbsp; &nbsp;
@@ -51,15 +51,16 @@ You can download my full CV [here](/files/CV.pdf).
   </tr>
   <tr>
     <td width="25%"><div align="right">Oct 2019 - Feb 2020<br>
-		<img src="/images/heidelberg_long.png" style="padding-top: 7px;display: block;margin-right:25px;" width="200"></div></td>
-		<td width="75%">Erasmus semester, University of Heidelberg, Germany<br>
+		<img src="/images/heidelberg_long.png" style="padding-top: 7px;display: block;margin-right:0px;" width="180"></div></td>
+		<td width="75%">Erasmus semester<br>
+      University of Heidelberg, Germany<br>
       <b>ECTS GPA:</b> A/A<br><br>
     </td>
   </tr>
   <tr>
     <td width="25%"><div align="right">Oct 2015 - Sep 2018<br>
-			<img src="/images/unipd-universita-di-padova.png" style="padding-top: 7px;display: block;margin-right:25px;" width="200"></div></td>
-		<td width="75%">Bachelor's degree in <i>Physics</i>, University of Padova<br>
+			<img src="/images/unipd-universita-di-padova.png" style="padding-top: 7px;display: block;margin-right:0px;" width="200"></div></td>
+		<td width="75%">Bachelor's degree in Physics, University of Padova<br>
       <b>Thesis:</b> <i>Advanced automatic analysis of Cloud Chamber images</i><br>
 	 		<b>Advisor:</b> Marco Zanetti<br>
       <b>Final grade:</b> 108/110 &nbsp; &nbsp; &nbsp;
