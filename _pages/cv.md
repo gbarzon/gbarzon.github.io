@@ -43,8 +43,6 @@ You can download my full CV [here](/files/CV.pdf).
    </td>
   </tr>
 
- <td></td>
-
   <tr>
     <td width="25%"><div align="right">Oct 2018 - Apr 2021<br>
 		<img src="/images/unipd-universita-di-padova.png" style="padding-top: 7px;display: block;margin-right:0px;" width="180"></div></td>
@@ -56,8 +54,6 @@ You can download my full CV [here](/files/CV.pdf).
     </td>
   </tr>
 
- <td></td>
-
   <tr>
     <td width="25%"><div align="right">Oct 2019 - Feb 2020<br>
 		<img src="/images/heidelberg_long.png" style="padding-top: 7px;display: block;margin-right:0px;" width="170"></div></td>
@@ -66,8 +62,6 @@ You can download my full CV [here](/files/CV.pdf).
       <b>ECTS GPA:</b> A/A<br><br>
     </td>
   </tr>
-
- <td></td>
 
   <tr>
     <td width="25%"><div align="right">Oct 2015 - Sep 2018<br>
