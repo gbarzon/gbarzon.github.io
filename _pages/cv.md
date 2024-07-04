@@ -80,8 +80,8 @@ You can download my full CV [here](/files/CV.pdf).
 <font size="5">
 <table>
   <tr>
-    <td width="25%"><div align="right">Dic 2017 - Aug 2018 <br>
-    <img src='/images/a4smart.png' style="padding-top:7px; display: block; margin-right:20px;" width="140"></div>
+    <td width="25%"><div align="right">Dec 2017 - Aug 2018 <br>
+    <img src='/images/a4smart.png' style="padding-top:7px; display: block; margin-right:20px;" width="120"></div>
     </td>
     <td width="75%">App developer<br>
        A4smart s.r.l.s.
@@ -90,16 +90,14 @@ You can download my full CV [here](/files/CV.pdf).
   </tr>
 
   <tr>
-    <td width="25%"><div align="right">Ago 2016 - Dic 2017<br>
-    <img src='/images/handing.png' style="padding-top:7px; display: block; margin-right:20px;" width="160"></div>
+    <td width="25%"><div align="right">Aug 2016 - Dec 2017<br>
+    <img src='/images/handing.png' style="padding-top:7px; display: block; margin-right:20px;" width="140"></div>
     </td>
     <td width="75%">App developer<br>
        Handing s.a.s.
        Padova, Italy<br>
    </td>
   </tr>
-
-   <td></td>
 
 </table>
 </font>
