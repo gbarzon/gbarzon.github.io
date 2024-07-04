@@ -56,7 +56,7 @@ You can download my full CV [here](/files/CV.pdf).
 
   <tr>
     <td width="25%"><div align="right">Oct 2019 - Feb 2020<br>
-		<img src="/images/heidelberg_long.png" style="padding-top: 7px;display: block;margin-right:0px;" width="170"></div></td>
+		<img src="/images/heidelberg_long.png" style="padding-top: 7px;display: block;margin-right:0px;" width="165"></div></td>
 		<td width="75%">Erasmus+ scholarship<br>
       University of Heidelberg, Germany<br>
       <b>ECTS GPA:</b> A/A<br><br>
@@ -81,7 +81,7 @@ You can download my full CV [here](/files/CV.pdf).
 <table>
   <tr>
     <td width="25%"><div align="right">Dic 2017 - Aug 2018 <br>
-    <img src='/images/a4smart.png' style="padding-top:7px; display: block; margin-right:20px;" width="200"></div>
+    <img src='/images/a4smart.png' style="padding-top:7px; display: block; margin-right:20px;" width="140"></div>
     </td>
     <td width="75%">App developer<br>
        A4smart s.r.l.s.
@@ -91,7 +91,7 @@ You can download my full CV [here](/files/CV.pdf).
 
   <tr>
     <td width="25%"><div align="right">Ago 2016 - Dic 2017<br>
-    <img src='/images/handing.png' style="padding-top:7px; display: block; margin-right:20px;" width="200"></div>
+    <img src='/images/handing.png' style="padding-top:7px; display: block; margin-right:20px;" width="160"></div>
     </td>
     <td width="75%">App developer<br>
        Handing s.a.s.
