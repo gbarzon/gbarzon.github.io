@@ -20,7 +20,7 @@ You can download my full CV [here](/files/CV.pdf).
     </td>
     <td width="75%">Visiting Ph.D. student<br>
        Institute of Neuroscience, University of Oregon, Eugene, United States<br>
-       @ Computational Neuroscience Lab<br>
+       Computational Neuroscience Lab, with Prof. Luca Mazzucato<br>
    </td>
   </tr>
 
@@ -37,8 +37,7 @@ You can download my full CV [here](/files/CV.pdf).
 	  <img src='/images/pnc_name.png' style="padding-top:7px;display: block;margin-right:0px;" width="200"></div>
     </td>
     <td width="75%">Ph.D in Neuroscience, Padova Neuroscience Center<br>
-	     <b>Supervisor:</b> Samir Suweis<br>
-		   <b>Co-supervisor:</b> Manlio De Domenico<br>
+	     <b>Supervisors:</b> Prof. Samir Suweis and Prof. Manlio De Domenico<br>
        <b>Project:</b> Perturbation-based insights into brain networks for bio-inspired computing.<br><br>
    </td>
   </tr>
@@ -48,7 +47,7 @@ You can download my full CV [here](/files/CV.pdf).
 		<img src="/images/unipd-universita-di-padova.png" style="padding-top: 7px;display: block;margin-right:0px;" width="180"></div></td>
 		<td width="75%">Master's degree in Physics of Data, University of Padova<br>
       <b>Thesis:</b> <i>Structure-function relation in a stochastic whole-brain model at criticality</i><br>
-	 		<b>Advisor:</b> Samir Suweis<br>
+	 		<b>Advisor:</b> Prof. Samir Suweis<br>
       <b>Final grade:</b> 110/110 cum laude &nbsp; &nbsp; &nbsp;
       <b>GPA:</b> 30/30<br><br>
     </td>
@@ -68,7 +67,7 @@ You can download my full CV [here](/files/CV.pdf).
 			<img src="/images/unipd-universita-di-padova.png" style="padding-top: 7px;display: block;margin-right:0px;" width="180"></div></td>
 		<td width="75%">Bachelor's degree in Physics, University of Padova<br>
       <b>Thesis:</b> <i>Advanced automatic analysis of Cloud Chamber images</i><br>
-	 		<b>Advisor:</b> Marco Zanetti<br>
+	 		<b>Advisor:</b> Prof. Marco Zanetti<br>
       <b>Final grade:</b> 108/110 &nbsp; &nbsp; &nbsp;
       <b>GPA:</b> 28.2/30<br><br>
     </td>
@@ -81,7 +80,7 @@ You can download my full CV [here](/files/CV.pdf).
 <table>
   <tr>
     <td width="25%"><div align="right">Dec 2017 - Aug 2018 <br>
-    <img src='/images/a4smart.png' style="padding-top:7px; display: block; margin-right:20px;" width="120"></div>
+    <img src='/images/a4smart.png' style="padding-top:7px; display: block; margin-right:20px;" width="110"></div>
     </td>
     <td width="75%">App developer<br>
        A4smart s.r.l.s.
