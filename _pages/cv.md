@@ -19,7 +19,7 @@ You can download my full CV [here](/files/CV.pdf).
     <img src='/images/university-of-Oregon-logo.png' style="padding-top:7px; display: block; margin-right:20px;" width="200"></div>
     </td>
     <td width="75%">Visiting Ph.D. student<br>
-       Institute of Neuroscience, University of Oregon, Eugene, United States<br>
+       Institute of Neuroscience, University of Oregon, United States<br>
        Computational Neuroscience Lab, with Prof. Luca Mazzucato<br>
    </td>
   </tr>
@@ -83,7 +83,7 @@ You can download my full CV [here](/files/CV.pdf).
     <img src='/images/a4smart.png' style="padding-top:7px; display: block; margin-right:20px;" width="110"></div>
     </td>
     <td width="75%">App developer<br>
-       A4smart s.r.l.s.
+       A4smart s.r.l.s.<br>
        Venice, Italy<br>
    </td>
   </tr>
@@ -92,8 +92,8 @@ You can download my full CV [here](/files/CV.pdf).
     <td width="25%"><div align="right">Aug 2016 - Dec 2017<br>
     <img src='/images/handing.png' style="padding-top:7px; display: block; margin-right:20px;" width="140"></div>
     </td>
-    <td width="75%">App developer<br>
-       Handing s.a.s.
+    <td width="75%">Software Engineer Intern<br>
+       Handing s.a.s.<br>
        Padova, Italy<br>
    </td>
   </tr>
