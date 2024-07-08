@@ -24,6 +24,16 @@ You can download my full CV [here](/files/CV.pdf).
    </td>
   </tr>
 
+  <tr>
+    <td width="25%"><div align="right">May 2024<br>
+    <img src='/images/berkeley_logo.png' style="padding-top:7px; display: block; margin-right:20px;" width="200"></div>
+    </td>
+    <td width="75%">Visiting Ph.D. student<br>
+       Redwood Center For Theoretical Neuroscience<br>
+       University of Berkeley, United States<br>
+   </td>
+  </tr>
+
    <td></td>
 
 </table>
@@ -80,7 +90,7 @@ You can download my full CV [here](/files/CV.pdf).
 <table>
   <tr>
     <td width="25%"><div align="right">Dec 2017 - Aug 2018 <br>
-    <img src='/images/a4smart.png' style="padding-top:7px; display: block; margin-right:20px;" width="110"></div>
+    <img src='/images/a4smart.png' style="padding-top:7px; display: block; margin-right:20px;" width="100"></div>
     </td>
     <td width="75%">App developer<br>
        A4smart s.r.l.s.<br>
