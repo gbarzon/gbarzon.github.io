@@ -87,7 +87,7 @@ You can download my full CV [here](/files/CV.pdf).
       <b>Thesis:</b> <i>Advanced automatic analysis of Cloud Chamber images</i><br>
 	 		<b>Advisor:</b> Prof. Marco Zanetti<br>
       <b>Final grade:</b> 108/110 &nbsp; &nbsp; &nbsp;
-      <b>GPA:</b> 28.2/30<br><br>
+      <b>GPA:</b> 28.2/30<br>
     </td>
   </tr>
 </table>
