@@ -15,7 +15,17 @@ You can download my full CV [here](/files/CV.pdf).
 <font size="5">
 <table>
   <tr>
-    <td width="25%"><div align="right">Apr 2024 - Present day<br>
+    <td width="25%"><div align="right">Oct 2024 - Present day<br>
+	  <img src='/images/pnc_name.png' style="padding-top:7px;display: block;margin-right:0px;" width="200"></div>
+    </td>
+    <td width="75%">Research fellow, Padova Neuroscience Center<br>
+	     <b>Supervisors:</b> Prof. Samir Suweis<br>
+       <b>Project:</b> Multimodal analysis and modeling of brain activity.<br><br>
+   </td>
+  </tr>
+
+  <tr>
+    <td width="25%"><div align="right">Apr 2024 - Aug 2024<br>
     <img src='/images/university-of-Oregon-logo.png' style="padding-top:7px; display: block; margin-right:20px;" width="200"></div>
     </td>
     <td width="75%">Visiting Ph.D. student<br>
@@ -34,8 +44,6 @@ You can download my full CV [here](/files/CV.pdf).
    </td>
   </tr>
 
-   <td></td>
-
 </table>
 </font>
 
@@ -43,12 +51,12 @@ You can download my full CV [here](/files/CV.pdf).
 <font size="5">
 <table>
   <tr>
-    <td width="25%"><div align="right">Oct 2021 - Present day<br>
+    <td width="25%"><div align="right">Oct 2021 - Sep 2024<br>
 	  <img src='/images/pnc_name.png' style="padding-top:7px;display: block;margin-right:0px;" width="200"></div>
     </td>
     <td width="75%">Ph.D in Neuroscience, Padova Neuroscience Center<br>
 	     <b>Supervisors:</b> Prof. Samir Suweis and Prof. Manlio De Domenico<br>
-       <b>Project:</b> Perturbation-based insights into brain networks for bio-inspired computing.<br><br>
+       <b>Project:</b> Perturbation Models and their Role in Understanding Brain Structure and Function.<br><br>
    </td>
   </tr>
 
