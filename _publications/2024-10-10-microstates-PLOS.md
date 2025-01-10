@@ -6,7 +6,7 @@ excerpt: 'Journal article'
 date: 2024-10-10
 year: '2024'
 authors: 'Giacomo Barzon, Ettore Ambrosini, Antonino Vallesi, Samir Suweis'
-venue: 'PLOS Computational Biology 20(10)'
+venue: 'PLOS Computational Biology 20 (10)'
 preprinturl: #'https://www.biorxiv.org/content/10.1101/2023.12.07.570625v1.abstract'
 paperurl: 'https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012521'
 citation: 'Giacomo Barzon, et al. "EEG microstate transition cost correlates with task demands." PLOS Computational Biology 20.10 (2024): e1012521.'
