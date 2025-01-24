@@ -14,9 +14,11 @@ I obtained a Master's degree in Physics of Data at the University of Padova. Thi
 
 I am intrigued by how the complex structure of the brain, both at the meso and macro scales, drives the emergence of complex dynamical and behavioral patterns, how these patterns are altered during diseases, and how we can design interventions to restore normal functionality.
 
-My passion for neuroscience can be summarized in this picture:
+<!-- > My passion for neuroscience can be summarized in this picture:
 
-<image src="/images/brain_lick.jpg" width="40%" style="display:block;margin-left:auto;margin-right:auto;padding-bottom:15px;"></image>
+# <image src="/images/brain_lick.jpg" width="40%" style="display:block;margin-left:auto;margin-right:auto;padding-bottom:15px;"></image>
+
+<!-->
 
 Here you can find a network representing my works and collaborators:
 <iframe src="/collab_net/network.html" height="300" width="100%" style="border: none"></iframe>
