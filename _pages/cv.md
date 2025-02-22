@@ -20,7 +20,7 @@ You can download my full CV [here](/files/CV.pdf).
     </td>
     <td width="75%">Research fellow, Padova Neuroscience Center<br>
 	     <b>Supervisors:</b> Prof. Samir Suweis<br>
-       <b>Project:</b> Multimodal analysis and modeling of brain activity.<br><br>
+       <b>Project:</b> Multimodal analysis and modeling of brain activity<br><br>
    </td>
   </tr>
 
