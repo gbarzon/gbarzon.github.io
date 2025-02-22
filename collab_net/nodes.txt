@@ -12,14 +12,14 @@
 10	"Mohinish Shukla"	2
 11	"Ramón Guevara"	2
 12	"Judit Gervain"	2
-13	"Daniel M. Busiello"	2
-14	"Oriol Artime"	2
-15	"Manlio De Domenico"	2
-16	"Ettore Ambrosini"	2
-17	"Antonino Vallesi"	2
+13	"Oriol Artime"	2
+14	"Manlio De Domenico"	2
+15	"Ettore Ambrosini"	2
+16	"Antonino Vallesi"	2
+17	"Daniel M. Busiello"	2
 19	"Modelling the deceleration of COVID-19 spreading"	4
 20	"Criticality and network structure drive emergent oscillations in a stochastic whole-brain model"	4
 21	"Prenatal experience with language shapes the brain"	4
-22	"Maximal information at the edge of stability in excitatory-inhibitory neural populations"	3
-23	"Unraveling the mesoscale organization induced by network-driven processes"	4
-24	"EEG microstate transition cost correlates with task demands"	4
+22	"Unraveling the mesoscale organization induced by network-driven processes"	4
+23	"EEG microstate transition cost correlates with task demands"	4
+24	"Excitation-Inhibition balance controls information encoding in neural populations"	4
