@@ -8,4 +8,4 @@ date: 2025-04-01
 location: "Venice, Italy"
 ---
 
-This talk has been presented during the [International School and Conference on Network Science 2024](https://netscix2024.netscisociety.org/){:target="_blank"}<!--_-->, held in Venice, Italy.
+This talk has been presented during the [Cosyne 2025 workshop - Dynamics of brain computations through the lens of control theory](https://www.cosyne.org/workshops-program-2025){:target="_blank"}<!--_-->, held in Venice, Italy.
