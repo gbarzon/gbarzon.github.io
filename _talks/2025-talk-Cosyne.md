@@ -1,7 +1,7 @@
 ---
 title: "Optimal control of neural activity in circuits with excitatory-inhibitory balance"
 collection: talks
-type: "Contributed talk"
+type: "Invited talk"
 permalink:
 venue: "Cosyne 2025 workshop - Dynamics of brain computations through the lens of control theory"
 date: 2025-04-01
