@@ -49,7 +49,7 @@ Here you can find a network representing my works and collaborators:
     <div style="flex: 1; display: flex; flex-direction: column; justify-content: center;">
       <h3 style="margin: 0;color:#51585e">Unraveling the mesoscale organization induced by network-driven processes</h3>
       <ul style="font-size: 0.95em; margin: 5px 0;color:#51585e;text-align:justify">
-        <li style="font-size: 0.9em; color: #9BA1A6;"><a href="https://phys.org/news/2025-03-optimal-brain-requires-excitatory-inhibitory.html" target="_blank">Phys.org</a> popular science publication</li>
+        <li style="font-size: 0.9em; color: #9BA1A6;"><a href="https://phys.org/news/2025-03-optimal-brain-requires-excitatory-inhibitory.html" target="_blank">Le Scienze</a> popular science publication</li>
       </ul>
     </div>
   </div>
