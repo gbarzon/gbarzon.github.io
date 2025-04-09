@@ -12,7 +12,10 @@ I am Giacomo Barzon, a Postdoctoral Researcher at the [Padova Neuroscience Cente
 
 I obtained my Ph.D. in Neuroscience at the [Padova Neuroscience Center](https://pnc.unipd.it), University of Padova, Italy, working under the supervision of Samir Suweis from the [Laboratory of Interdisciplinary Physics](https://liphlab.com/) and Manlio De Domenico from the [CoMuNe Lab](https://manliodedomenico.com). We studied how to model the effect of perturbations on brain networks at macro- and meso-scale.
 
-I obtained a Master's degree in Physics of Data at the University of Padova. This program provided me with a comprehensive understanding of both Physics and Data Science, and I find it fulfilling to merge analytical and computational methods to tackle research challenges.
+Previously, I obtained a Master's degree in Physics of Data at the University of Padova. This program provided me with a comprehensive understanding of both Physics and Data Science, and I find it fulfilling to merge analytical and computational methods to tackle research challenges.
+
+## <span style="display: flex; align-items: center;">My Work at a Glance <span onclick="toggleVisibility('glance')" style="cursor: pointer; display: inline-block; vertical-align: middle; margin-left: 5px;"><svg id="arrow-glance" style="display: inline-block; transform: rotate(0deg); transition: transform 1s; vertical-align: middle; transform-origin: center; fill: #4A4E52;" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M18.59 16.41L20 15l-8-8-8 8 1.41 1.41L12 9.83z"/></svg></span></span>
+<div id="glance" style="max-height: 2000px; overflow: hidden; transition: max-height 0.5s ease-out;">
 
 I am intrigued by how the complex structure of the brain, both at the meso and macro scales, drives the emergence of complex dynamical and behavioral patterns, how these patterns are altered during diseases, and how we can design interventions to restore normal functionality.
 
