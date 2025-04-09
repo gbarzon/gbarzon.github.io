@@ -51,3 +51,17 @@ Here you can find a network representing my works and collaborators:
     </div>
   </div>
 </div>
+
+<script>
+  function toggleVisibility(id) {
+    var element = document.getElementById(id);
+    var arrow = document.getElementById('arrow-' + id);
+    if (element.style.maxHeight === "2000px") {
+      element.style.maxHeight = "0px";
+      arrow.style.transform = "rotate(180deg)";
+    } else {
+      element.style.maxHeight = "2000px";
+      arrow.style.transform = "rotate(0deg)";
+    }
+  }
+</script>
