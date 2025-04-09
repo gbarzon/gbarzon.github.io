@@ -19,7 +19,10 @@ Previously, I obtained a Master's degree in Physics of Data at the University of
 
 I am intrigued by how the complex structure of the brain, both at the meso and macro scales, drives the emergence of complex dynamical and behavioral patterns, how these patterns are altered during diseases, and how we can design interventions to restore normal functionality.
 
-Here you can find a network representing my works and collaborators:
+<h3>Collaboration network</h3>
+
+Here you can find a network of my works and collaborators: the color of each node specifies what it represents: <span style="color:#9BA1A6"> <b>co-authors</b></span>, <span style="color:#dbbb2a"> <b>preprints</b></span> or <span style="color:#9e1910"> <b>journal articles</b></span>.
+
 <iframe src="/collab_net/network.html" height="300" width="100%" style="border: none"></iframe>
 
 <!-- > My passion for neuroscience can be summarized in this picture:
