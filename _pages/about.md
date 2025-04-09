@@ -28,6 +28,9 @@ I am intrigued by how the complex structure of the brain, both at the meso and m
 Here you can find a network representing my works and collaborators:
 <iframe src="/collab_net/network.html" height="300" width="100%" style="border: none"></iframe>
 
+</div>
+
+
 ## <span style="display: flex; align-items: center;">News & Media Coverage <span onclick="toggleVisibility('news')" style="cursor: pointer; display: inline-block; vertical-align: middle; margin-left: 5px;"><svg id="arrow-news" style="display: inline-block; transform: rotate(0deg); transition: transform 1s; vertical-align: middle; transform-origin: center; fill: #4A4E52;" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M18.59 16.41L20 15l-8-8-8 8 1.41 1.41L12 9.83z"/></svg></span></span>
 <div id="news" style="max-height: 2000px; overflow: hidden; transition: max-height 0.5s ease-out;">
 <div style="margin-bottom: 10px;"></div>
