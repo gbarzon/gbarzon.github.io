@@ -56,7 +56,7 @@ You can download my full CV [here](/files/CV.pdf).
     </td>
     <td width="75%">Ph.D in Neuroscience, Padova Neuroscience Center<br>
 	     <b>Supervisors:</b> Prof. Samir Suweis and Prof. Manlio De Domenico<br>
-       <b>Project:</b> Perturbation Models and their Role in Understanding Brain Structure and Function.<br><br>
+       <b>Project:</b> Perturbation Models and their Role in Understanding Brain Structure and Function<br><br>
    </td>
   </tr>
 

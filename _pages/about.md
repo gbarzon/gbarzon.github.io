@@ -10,7 +10,7 @@ redirect_from:
 
 I am Giacomo Barzon, a Postdoctoral Researcher at the [Padova Neuroscience Center](https://pnc.unipd.it), University of Padova, Italy.
 
-I obtained my Ph.D. in Neuroscience at the [Padova Neuroscience Center](https://pnc.unipd.it), University of Padova, Italy, working under the supervision of Samir Suweis from the [Laboratory of Interdisciplinary Physics](https://liphlab.com/) and Manlio De Domenico from the [CoMuNe Lab](https://manliodedomenico.com). We studied how to model the effect of perturbations on brain networks at macro- and meso-scale.
+I obtained my Ph.D. in Neuroscience at the [Padova Neuroscience Center](https://pnc.unipd.it), University of Padova, Italy, working under the supervision of Samir Suweis from the [Laboratory of Interdisciplinary Physics](https://liphlab.com/) and Manlio De Domenico from the [CoMuNe Lab](https://manliodedomenico.com). We studied how to model the effect of perturbations on brain networks at meso- and macro-scale.
 
 Previously, I obtained a Master's degree in Physics of Data at the University of Padova. This program provided me with a comprehensive understanding of both Physics and Data Science, and I find it fulfilling to merge analytical and computational methods to tackle research challenges.
 
