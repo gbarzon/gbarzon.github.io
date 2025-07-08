@@ -6,9 +6,9 @@ excerpt: 'preprint'
 date: 2025-07-02
 year: '2025'
 authors: 'Giacomo Barzon, Michele Allegra, Mohammad Hadi Aarabi, Lorenzo Pini, Manlio De Domenico, Maurizio Corbetta, Samir Suweis'
-venue: 'bioRxiv:10.1101/2025.06.30.662336 (2025)'
+venue: 'bioRxiv:10.1101/2025.06.30.662336'
 preprinturl: 'https://www.biorxiv.org/content/10.1101/2025.06.30.662336v1'
-citation: 'Giacomo Barzon et al. Structural Connectome Dimension Shapes Brain Dynamics in Health and Disease. bioRxiv:10.1101/2025.06.30.662336 (2025)'
+citation: 'Giacomo Barzon et al. Structural Connectome Dimension Shapes Brain Dynamics in Health and Disease. bioRxiv:10.1101/2025.06.30.662336'
 ---
 
 ## Abstract
