@@ -49,18 +49,12 @@ sed -i '/^$/d' $OUTPUT_URL
 sed -i '/^$/d' $OUTPUT_TYPE
 cat $TEMP_AUTH | sed "s/,\ /\n/g" | perl -ne 'print unless $seen{$_}++' > $OUTPUT_AUTH	#deletes duplicate lines and returns a newline separated list of all the authors
 
-
-#sed -i '/Giorgio Nicoletti/d' $OUTPUT_AUTH	#removes "Giorgio Nicoletti" from the author list
-
-
 authN=$(cat $OUTPUT_AUTH | wc -l)		#total number of authors
 titleN=$(cat $OUTPUT_TITLE | wc -l)		#total number of articles
 
 
 echo " 	name	group" > $NODES		#creates file with nodes data
 echo "	source	target	value" > $LINKS	#creates file with link data
-
-#echo -e "0\t\"Giorgio Nicoletti\"\t1" >> $NODES
 
 for i in $(seq 1 $authN)	#loops over all authors and add the relative line in $NODES and $URL
 do
