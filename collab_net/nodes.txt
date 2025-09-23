@@ -28,3 +28,4 @@
 27	"EEG microstate transition cost correlates with task demands"	4
 28	"Excitation-Inhibition balance controls information encoding in neural populations"	4
 29	"Structural Connectome Dimension Shapes Brain Dynamics in Health and Disease"	3
+30	"Plasticity-induced multistability on fast and slow timescales enables optimal information encoding and spontaneous sequence discrimination"	3
