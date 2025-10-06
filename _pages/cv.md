@@ -15,7 +15,17 @@ You can download my full CV [here](/files/CV.pdf).
 <font size="5">
 <table>
   <tr>
-    <td width="25%"><div align="right">Oct 2024 - Present day<br>
+    <td width="25%"><div align="right">Oct 2025 - Present day<br>
+    <img src='/images/university-of-Oregon-logo.png' style="padding-top:7px; display: block; margin-right:20px;" width="200"></div>
+    </td>
+    <td width="75%">Research fellow, Institute of Neuroscience, University of Oregon<br>
+      <b>Supervisors:</b> Prof. Luca Mazzucato<br>
+      <b>Project:</b> Data-driven control for neural activity and behavior<br><br>
+   </td>
+  </tr>
+
+  <tr>
+    <td width="25%"><div align="right">Oct 2024 - Sep 2025<br>
 	  <img src='/images/pnc_name.png' style="padding-top:7px;display: block;margin-right:0px;" width="200"></div>
     </td>
     <td width="75%">Research fellow, Padova Neuroscience Center<br>
