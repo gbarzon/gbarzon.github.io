@@ -16,7 +16,7 @@ You can download my full CV [here](/files/CV.pdf).
 <table>
   <tr>
     <td width="25%"><div align="right">Oct 2025 - Present day<br>
-    <img src='/images/university-of-Oregon-logo.png' style="padding-top:7px; display: block; margin-right:20px;" width="200"></div>
+    <img src='/images/university-of-Oregon-logo.png' style="padding-top:7px; display: block; margin-right:0px;" width="200"></div>
     </td>
     <td width="75%">Research fellow, Institute of Neuroscience, University of Oregon<br>
       <b>Supervisors:</b> Prof. Luca Mazzucato<br>
@@ -36,7 +36,7 @@ You can download my full CV [here](/files/CV.pdf).
 
   <tr>
     <td width="25%"><div align="right">Apr 2024 - Aug 2024<br>
-    <img src='/images/university-of-Oregon-logo.png' style="padding-top:7px; display: block; margin-right:20px;" width="200"></div>
+    <img src='/images/university-of-Oregon-logo.png' style="padding-top:7px; display: block; margin-right:0px;" width="200"></div>
     </td>
     <td width="75%">Visiting Ph.D. student<br>
        Institute of Neuroscience, University of Oregon, United States<br>
@@ -46,7 +46,7 @@ You can download my full CV [here](/files/CV.pdf).
 
   <tr>
     <td width="25%"><div align="right">May 2024<br>
-    <img src='/images/berkeley_logo.png' style="padding-top:7px; display: block; margin-right:20px;" width="200"></div>
+    <img src='/images/berkeley_logo.png' style="padding-top:7px; display: block; margin-right:0px;" width="200"></div>
     </td>
     <td width="75%">Visiting Ph.D. student<br>
        Redwood Center For Theoretical Neuroscience<br>
