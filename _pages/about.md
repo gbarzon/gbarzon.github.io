@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Giacomo Barzon, a Postdoctoral Researcher at the [Padova Neuroscience Center](https://pnc.unipd.it), University of Padova, Italy.
+I am Giacomo Barzon, a Postdoctoral Researcher at the [Institute of Neuroscience (ION)](https://ion.uoregon.edu), University of Oregon, US.
 
 I obtained my Ph.D. in Neuroscience at the [Padova Neuroscience Center](https://pnc.unipd.it), University of Padova, Italy, working under the supervision of Samir Suweis from the [Laboratory of Interdisciplinary Physics](https://liphlab.com/) and Manlio De Domenico from the [CoMuNe Lab](https://manliodedomenico.com). We studied how to model the effect of perturbations on brain networks at meso- and macro-scale.
 
